@@ -15,7 +15,7 @@ Avocados_Stats - Calculates the mean, median and standard deviation without usin
 
 Game - The user begins with an account value of $100. She may place a bet of an amount of her choosing, but not more than her current balance. She then rolls two six-sided dice. Her score is the sum of the faces of the dice. If she rolls a 7 or a 12 she wins and doubles her bet. If she does not roll a 7 or 12, she has the option to double her bet and roll a third die. If all three dice sum to 7 or 12 she wins three times the total value of her bet.
 
-# Ellipse
+# Ellipse - python
 Ellipse_Area_Circumference - Capture the necessary information of an ellipse and return the area and circumference
 
 Ellipse_Area_Circumference_rotated - Capture the necessary information of a rotated ellipse and return the area and circumference
