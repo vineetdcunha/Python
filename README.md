@@ -1,4 +1,4 @@
-# python
+# Python
 Data analysis and python programming
 
 Data_analysis - Data analysis, preprocessing and cleaning.
@@ -22,6 +22,10 @@ Housing_numpy_matplotlib - Performing basic numpy and matplotlib functions on ho
 Load_Public_Chauffeurs - Loading Public_Chauffeurs_Short data in sqllite
 
 Load_Tweet_Data - Loading Tweets in sqllite
+
+Find_Numbers - Find numbers between x and y
+
+Load_Tweet_User_Data - Loading Tweets and corresponding users in sqllite
 
 # Ellipse - python
 Ellipse_Area_Circumference - Capture the necessary information of an ellipse and return the area and circumference
