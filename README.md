@@ -19,6 +19,10 @@ Basic_numpy - Using basic numpy functions
 
 Housing_numpy_matplotlib - Performing basic numpy and matplotlib functions on housing dataset
 
+Load_Public_Chauffeurs - Loading Public_Chauffeurs_Short data in sqllite
+
+Load_Tweet_Data - Loading Tweets in sqllite
+
 # Ellipse - python
 Ellipse_Area_Circumference - Capture the necessary information of an ellipse and return the area and circumference
 
