@@ -27,6 +27,8 @@ Find_Numbers - Find numbers between x and y
 
 Load_Tweet_User_Data - Loading Tweets and corresponding users in sqllite
 
+Employee_Grouping - Load employee data and group by salary
+
 # Ellipse - python
 Ellipse_Area_Circumference - Capture the necessary information of an ellipse and return the area and circumference
 
